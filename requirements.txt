@@ -3,3 +3,4 @@ ydata-profiling
 streamlit
 seaborn
 streamlit-pandas-profiling
+setuptools
