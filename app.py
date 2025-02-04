@@ -1,5 +1,5 @@
 import pandas as pd
-import ydata_profiling as pandas_profiling  # Use pandas_profiling if you're on an older version
+import ydata_profiling as pandas_profiling  
 import streamlit as st
 import seaborn as sns
 from streamlit_pandas_profiling import st_profile_report
